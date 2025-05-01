@@ -1,5 +1,11 @@
 # Estudo Javascript
-#### Anotações do meu estudo na linguagem javascript, e exercicios durante o aprendizado.
+### Anotações do meu estudo na linguagem javascript, e exercicios durante o aprendizado.
+
+- [Exercicios do curso](https://github.com/lcsfs/estudo-javascript/tree/main/CursoJavaScript/0.%20exercicios)
+
+- [Desafios do curso](https://github.com/lcsfs/estudo-javascript/tree/main/CursoJavaScript/0.1%20desafios)
+
+### Temas e algumas anotacoes 
 
 - [Valores e variáveis](https://github.com/lcsfs/estudo-javascript/tree/main/CursoJavaScript/2.%20valores%20e%20variaveis)
 
