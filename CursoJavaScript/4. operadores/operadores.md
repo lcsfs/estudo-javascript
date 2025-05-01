@@ -49,3 +49,11 @@ x-- // operador decremento, subtrai um de seu operando. O valor de retorno é an
 
 A comparação deste operador sempre irá retornar um valor boolean
 ```
+
+## Operadores logicos
+
+```js
+&& // (E lógigo) - Retorna true caso ambos valores sejam true, caso contrario, retorna false.
+|| // (OU logico) - Retorna true caso ambos os operandos sejam true, se ambos forem false, retorna false.
+! // (NOT logico) - Retorna falso caso o único operando possa ser convertido para verdadeiro; senão, retorna verdadeiro.
+```
