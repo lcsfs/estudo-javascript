@@ -24,3 +24,9 @@
 - [Declaracao switch](https://github.com/lcsfs/estudo-javascript/tree/main/CursoJavaScript/9.%20switch%20statement)
 
 - [Operador ternario](https://github.com/lcsfs/estudo-javascript/tree/main/CursoJavaScript/10.%20operador%20ternario)
+
+- [Strict mode](https://github.com/lcsfs/estudo-javascript/tree/main/CursoJavaScript/11%20strict%20mode)
+
+- [Funções](https://github.com/lcsfs/estudo-javascript/tree/main/CursoJavaScript/12%20funcoes)
+
+- [Arrays](https://github.com/lcsfs/estudo-javascript/tree/main/CursoJavaScript/13%20arrays)
